@@ -37,6 +37,7 @@ nav {
 .close-nav {
   display: none;
 }
+
 nav a {
   color: #f5ece4;
   text-decoration: none;
@@ -364,18 +365,19 @@ footer {
     display: block;
   }
   .section-1 {
-    height: 150px;
+    height: 300px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
     position: relative;
     background: #3c2f2f;
-    padding: 0;
+    padding: 0 30px;
   }
 
   .section-1 div {
     text-align: center;
     margin: auto;
+    padding: 10px;
   }
 
   .section-1 h1 {
@@ -408,6 +410,7 @@ footer {
   .section-2 div {
     max-width: 500px;
     margin: auto;
+    padding: 10px;
   }
 
   .section-2 h2 {
