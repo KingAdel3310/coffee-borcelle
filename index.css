@@ -34,6 +34,9 @@ nav {
   padding: 20px;
 }
 
+.close-nav {
+  display: none;
+}
 nav a {
   color: #f5ece4;
   text-decoration: none;
